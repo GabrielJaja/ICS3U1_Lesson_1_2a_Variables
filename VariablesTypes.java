@@ -8,8 +8,12 @@ class VariablesTypes extends ConsoleProgram {
     int fouls = 0;
 
     //define a string variable
+    String firstName;
+
     // Assign a value to firstName
+    firstName = "Gabriel";
    //Print out the value of the String variable
+   System.out.println(firstName);
 
     
   }
